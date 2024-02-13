@@ -1,0 +1,8 @@
+2024-02-13 20:33:19,366 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-13 20:33:19,366 [INFO] [33mPress CTRL+C to quit[0m
+2024-02-13 20:33:28,572 [INFO] 127.0.0.1 - - [13/Feb/2024 20:33:28] "GET / HTTP/1.1" 200 -
+2024-02-13 20:33:28,694 [INFO] 127.0.0.1 - - [13/Feb/2024 20:33:28] "GET /static/css/styles.min.css HTTP/1.1" 200 -
+2024-02-13 20:33:28,698 [INFO] 127.0.0.1 - - [13/Feb/2024 20:33:28] "GET /static/img/bookmark.png HTTP/1.1" 200 -
+2024-02-13 20:33:28,718 [INFO] 127.0.0.1 - - [13/Feb/2024 20:33:28] "GET /static/img/eye.png HTTP/1.1" 200 -
+2024-02-13 20:33:35,153 [INFO] 127.0.0.1 - - [13/Feb/2024 20:33:35] "GET /api/posts HTTP/1.1" 200 -
